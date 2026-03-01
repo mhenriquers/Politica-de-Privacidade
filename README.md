@@ -1,4 +1,4 @@
-# 📄 Privacy Policies
+#  Privacy Policies
 
 This repository is dedicated to hosting and maintaining the **Privacy Policies** of the applications developed by me.  
 Each policy is provided in HTML and published through GitHub Pages, ensuring public access and transparency as required by Google Play and other distribution platforms.
