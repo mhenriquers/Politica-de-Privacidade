@@ -1,26 +1,26 @@
-# 📄 Políticas de Privacidade 
+# 📄 Privacy Policies
 
-Este repositório é dedicado à hospedagem e manutenção das **Políticas de Privacidade** dos aplicativos desenvolvidos por mim.  
-Cada política é disponibilizada em HTML e publicada através do GitHub Pages, garantindo acesso público e transparência conforme exigido pela Google Play e outras plataformas de distribuição.
-
----
-
-## 📌 Objetivo do Repositório
-- Centralizar e organizar as políticas de privacidade dos aplicativos.
-- Manter um histórico claro e acessível de atualizações.
-- Atender requisitos legais e de conformidade sobre transparência no uso de dados.
-- Facilitar o acesso dos usuários às informações de privacidade.
+This repository is dedicated to hosting and maintaining the **Privacy Policies** of the applications developed by me.  
+Each policy is provided in HTML and published through GitHub Pages, ensuring public access and transparency as required by Google Play and other distribution platforms.
 
 ---
 
-## Conformidade e Transparência
-Todas as políticas seguem boas práticas de privacidade e deixam claro como cada aplicativo lida com dados dos usuários.  
-Para apps que não coletam dados, as políticas refletem essa simplicidade de forma transparente.
+## 📌 Repository Purpose
+- Centralize and organize the applications' privacy policies.
+- Maintain a clear and accessible update history.
+- Meet legal and compliance requirements regarding transparency in data usage.
+- Facilitate user access to privacy information.
 
-## Contato
-Para dúvidas, entre em contato pelo e-mail:
+---
+
+## Compliance and Transparency
+All policies follow privacy best practices and clearly explain how each application handles user data.  
+For apps that do not collect data, the policies reflect this simplicity transparently.
+
+## Contact
+If you have any questions, feel free to contact me at:
 
 matheushenriqueowdail@gmail.com
 
-## Última atualização
+## Last Update
 01/03/2026
